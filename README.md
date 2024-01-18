@@ -49,7 +49,6 @@
 <br/>
 <br/>
 
- **`plus jetBrains software`**
 ___
 
 ## just a bit about me
