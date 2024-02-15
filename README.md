@@ -56,5 +56,3 @@ ___
 - 7 years of experience in coding or maybe even more...
 - I speak English, German and Fluent Russian
 - currently located in DE NRW
-
-<meta name="google-site-verification" content="T6cN-53KLWxQbqmd4aP-SbsYFFtAzwUzORgFkYDeWjw" />
