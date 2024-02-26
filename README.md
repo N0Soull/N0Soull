@@ -1,10 +1,6 @@
 # N0Soull
 
-**`I'am backend developer with some frontend skills plus a privacy freak`**
-
-**this github page is nothing more then just a small showcase of what i can do. As of right now all my current projects are either private or offline for many reasons but as soon as i will be satisfied with atleast one of them, eventualy i will make it publicly accessible.**
-
----
+**`backend developer with some frontend skills plus a privacy freak`**
 
 ### Programming Languages i know
 
