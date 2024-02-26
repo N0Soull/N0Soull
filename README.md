@@ -49,6 +49,6 @@ ___
 
 ## just a bit about me
 
-- 7 years of experience in coding or maybe even more...
+- 7+ years of experience as a backend dev and 3+ years as a frontend dev
 - I speak English, German and Fluent Russian
 - currently located in DE NRW
