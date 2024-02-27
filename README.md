@@ -49,8 +49,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=N0Soull&theme=catppuccin-mocha&hide_border=true)](https://git.io/streak-stats)
 
+<!--
 ## just a bit about me
 
 - 7+ years of experience as a backend dev and 3+ years as a frontend dev
 - I speak English, German and Fluent Russian
 - currently located in DE NRW
+-->
