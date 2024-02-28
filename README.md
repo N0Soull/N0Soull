@@ -1,6 +1,6 @@
 # N0Soull
 
-**`backend developer with some frontend skills plus a privacy freak`**
+**`backend developer with some frontend skills and a privacy freak`**
 
 ### Programming Languages i know
 
