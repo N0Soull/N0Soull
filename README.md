@@ -51,10 +51,10 @@
 - Windows Kernel Development
 - Software Reverse Engineering (SRE)
 - Malware Analysis
-- Server Managment/Configuration
+- Server Management/Configuration
 - Virtual Machines
-- Web App Development
-- Bot-development with javaScript and Python
+- Web-App Development
+- Bot Development with javaScript and Python
 
 ## GitHub Stats
 
