@@ -53,7 +53,8 @@
 - Malware Analysis
 - Server Managment/Configuration
 - Virtual Machines
-- Web-Application Development
+- Web App Development
+- Bot-development with javaScript and Python
 
 ## GitHub Stats
 
