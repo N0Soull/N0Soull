@@ -45,6 +45,16 @@
 <br/>
 <br/>
 
+## My skills
+
+- Windows App Development
+- Windows Kernel Development
+- Software Reverse Engineering (SRE)
+- Malware Analysis
+- Server Managment/Configuration
+- Virtual Machines
+- Web-Application Development
+
 ## GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=N0Soull&theme=catppuccin-mocha&hide_border=true)](https://git.io/streak-stats)
