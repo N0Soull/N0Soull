@@ -48,7 +48,7 @@
 ## My skills
 
 - Windows App Development
-- Windows Kernel Development
+- Windows Kernel Programming
 - Software Reverse Engineering (SRE)
 - Malware Analysis
 - Server Management/Configuration
@@ -61,9 +61,10 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=N0Soull&theme=catppuccin-mocha&hide_border=true)](https://git.io/streak-stats)
 
 <!--
+idk about that part so its commented for now
 ## just a bit about me
 
-- 7+ years of experience as a backend dev and 3+ years as a frontend dev
+- 7+ years of experience
 - I speak English, German and Fluent Russian
 - currently located in DE NRW
 
