@@ -40,6 +40,7 @@
 <img align="left" alt="IntelliJ IDEA Ultimate" width="35px" style="padding-right:10px;" src="https://cdn.hackr.io/uploads/posts/attachments/intellij-idea.png" />
 <img align="left" alt="WebStorm" width="35px" style="padding-right:10px;" src="https://cdn.hackr.io/uploads/posts/attachments/webstorm.png" />
 <img align="left" alt="PhpStorm" width="35px" style="padding-right:10px;" src="https://www.b2x.cz/wp-content/uploads/2021/01/icon-phpstorm-768x768.png" />
+<img align="left" alt="Clion" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" />
 <img align="left" alt="github" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 
 <br/>
