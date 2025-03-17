@@ -56,16 +56,7 @@
 - Web-App Development
 - Bot Development with javaScript and Python
 <!--
-## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=N0Soull&theme=catppuccin-mocha&hide_border=true)](https://git.io/streak-stats)
-
-
-idk about that part so its commented for now
-## just a bit about me
-
-- 5+ years of experience
-- I speak English, German and Fluent Russian
-- currently located in DE NRW
+deleted outdated info
 
 -->
