@@ -47,7 +47,6 @@
 
 ## My skills
 
-- Windows App Development
 - Windows Kernel Programming
 - Software Reverse Engineering (SRE)
 - Malware Analysis
